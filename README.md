@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/search?q=gif+banner+for+github&sca_esv=cb75dbb3c59e956c&udm=2&biw=1366&bih=599&sxsrf=ADLYWILoDSTNSawoV1CCjastVnuDFZlRCg%3A1737552616521&ei=6PKQZ7e6H5-C9u8Pkaal0AI&oq=gif+banner+for+git&gs_lp=EgNpbWciEmdpZiBiYW5uZXIgZm9yIGdpdCoCCAAyBRAAGIAESNYwUABYqSlwAngAkAEAmAG_AqAB9ymqAQYyLTE1LjS4AQPIAQD4AQGYAhWgAr4qqAIKwgIHECMYJxjqAsICBBAjGCfCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIKEAAYgAQYQxiKBcICDRAAGIAEGLEDGEMYigXCAhAQABiABBixAxhDGIMBGIoFwgIEEAAYHsICBhAAGAUYHsICBhAAGAgYHpgDB5IHCDIuMC4xNS40oAenVQ&sclient=img#vhid=kfpqCuXmfeFi9M&vssid=mosaic)
 <h1 align="center">Hi 👋, I'm Zul Qarnain Afridi</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-<img width="400" src="https://www.google.com/search?sca_esv=cb75dbb3c59e956c&sxsrf=ADLYWIJwFdwyJlE94jkgROzoIN2rJHDLTg:1737551635547&q=front+end+animated+coding+gif+MERN+stack&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dubok2W2alVUcLPNX0EgR1stnnchaG70dGLr2zR_44nCfuHvQFb3xLToY5aVpPImlu-vdqJn1f6L3RU6ohCN_2bkxMlvaEDU-HEYMiT7HkG5Ybi19W1gmcrE5C2GnR7n4D2ixOK8__ql-DuxTAfGUT2dnJyctCUIAlxf1QaBbh6yrx7co&udm=2&sa=X&ved=2ahUKEwiLz4-gtImLAxUP8bsIHSFdAeIQxKsJegUIjAEQAQ&ictx=0&biw=1366&bih=599&dpr=1#vhid=u2UaRqRwXa5Z_M&vssid=mosaic" alt="coding">
+<img width="400" src="https://images.app.goo.gl/885CwZL8UNWcwkqx9" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingzulqarnain&label=Profile%20views&color=0e75b6&style=flat" alt="beingzulqarnain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beingzulqarnain" alt="beingzulqarnain" /></a> </p>
